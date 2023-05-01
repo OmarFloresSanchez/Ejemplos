@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold; 
+}
+section{
+    
+    background-color: rgb(146, 0, 0);
+    margin: 0em  56em 0em 20em;
+}
+h1{
+    padding-left: 20em;
+    font-size: large;
+    color: rgb(146, 0, 0);
+}
+h2{
+    padding-left: 20em;
+    font-size: medium;
+    color: rgb(182, 8, 8);
+}
+button{
+    font-weight: bold;
+}
+#numeros{
+    padding-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+}
+#numeros button{
+    color: rgb(255, 251, 15);
+    background-color: rgb(235, 160, 152);
+    padding: 1.5em;
+    
+    display:flexbox;
+    border: 1pt solid white;
+    font-size: large;
+}
+
+#jugar{
+    background-color: rgb(238, 160, 14);
+    color: white;
+    padding: .5em 2em .5em 2em;
+}
+#opciones{
+    display:flex;
+}
+#movti{
+    display:flex;
+    color: rgb(238, 160, 14);;
+}
